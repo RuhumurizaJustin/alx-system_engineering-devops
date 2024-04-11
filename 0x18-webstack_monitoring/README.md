@@ -1,0 +1,1 @@
+Solutions of task on 0x18. Webstack monitoring project
